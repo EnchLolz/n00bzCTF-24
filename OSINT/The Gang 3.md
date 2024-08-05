@@ -31,7 +31,7 @@ A discord link??? Ok, we go into the Discord server and scroll past the convos a
 
 ![Discord Messages 2](/images/TheGang3Msgs2.png)
 
-With this information, we can just google for Indian statues and scroll through wikipedia pages (https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India). After a bit of time we narrow it down to https://en.wikipedia.org/wiki/Statue_of_Prosperity as it's located on an airport!
+With this information, we can just google for Indian statues and scroll through wikipedia pages (https://en.wikipedia.org/wiki/List_of_the_tallest_statues_in_India). After a bit of time we narrow it down to https://en.wikipedia.org/wiki/Statue_of_Prosperity as it's located on the airport in `Bengaluru` as mentioned above!
 
 Going to [Google maps](https://www.google.com/maps/place/Nadaprabhu+Kempegowda+Statue/@13.199147,77.6820516,148m/data=!3m1!1e3!4m10!1m2!2m1!1sstatue+of+prosperity!3m6!1s0x3bae1dd817d14fd1:0x623a16dea1b6fc4c!8m2!3d13.1991681!4d77.6822418!15sChRzdGF0dWUgb2YgcHJvc3Blcml0eZIBEnRvdXJpc3RfYXR0cmFjdGlvbuABAA!16s%2Fg%2F11q4mbltqy?entry=ttu) we can easily locate it:
 
