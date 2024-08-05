@@ -1,4 +1,4 @@
-# EVM The Basics
+# EVM - The Basics
 
 Category: BLOCKCHAIN
 
@@ -10,7 +10,7 @@ Solves: xxx
 
 ### Solution
 
-We are given some bytecode `5f346113370265fdc29ff358a314601257ff00` and we can decompile it with https://app.dedaub.com/decompile giving us:
+We are given some bytecode `5f346113370265fdc29ff358a314601257ff00` and we can disassemble it with https://app.dedaub.com/decompile giving us:
 
 ```
     0x0: PUSH0     
