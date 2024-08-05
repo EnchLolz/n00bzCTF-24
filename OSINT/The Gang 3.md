@@ -14,7 +14,7 @@ Continue where we left off (Again). We see another twitter post, this time with 
 
 ![Twitter Post](/images/TheGang3TwitterPost.png)
 
-From our previous exploration, we know that in the n00bzCTF 2022 and 2023. Both also had this John Doe character, so we can look [there](https://github.com/n00bzUnit3d) first:
+From our previous exploration, we know that n00bzCTF 2022 and 2023 had this John Doe character, so we can look [there](https://github.com/n00bzUnit3d) first:
 
 ![n00bz 2022](/images/TheGang3n00bz2022.png)
 
