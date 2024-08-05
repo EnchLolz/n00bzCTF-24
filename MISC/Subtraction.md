@@ -4,7 +4,7 @@ Category: MISC
 
 Points: 448
 
-Solves: xxx
+Solves: 182
 
 >My little brother is learning math, can you show him how to do some subtraction problems?
 
@@ -73,6 +73,8 @@ p.interactive()
 # ... 198980 475128 584442 556982 520212 85584 130974 18028
 # n00bz{1_sh0uld_t34ch_my_br0th3r_logs_48f45b4728df}
 ```
+
+Also first blooded this chal so that was pretty cool :drop_of_blood: 
 
 ### Flag
 

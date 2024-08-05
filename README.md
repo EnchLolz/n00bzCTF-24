@@ -8,6 +8,8 @@
 
 ## Categories
 
+Ordered from easiet to hardest within each category
+
 - ### Blockchain (3/3)
     - [EVM - The Basics](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/EVM%20-%20The%20Basics.md)
     - [EVM - Conditions](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/EVM%20-%20Conditions.md)
@@ -62,6 +64,6 @@
 | *Score*| **10292/10292** |
 | *Solved* | **32/32** |
 | *Rank (Overall)* | **8/967** |
-| *Rank (High School)* | :fire::fire:**3/???**:fire::fire: |
+| *Rank (High School)* | :fire::fire:**3/180**:fire::fire: |
 
 Images folder for screenshots in writeups

@@ -4,7 +4,7 @@ Category: REV
 
 Points: 431
 
-Solves: xxx
+Solves: 210
 
 >Why did the macros hide its knowledge? Because it didn't want anyone to "excel"!
 

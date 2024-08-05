@@ -4,7 +4,7 @@ Category: OSINT
 
 Points: 275
 
-Solves: xxx
+Solves: 376
 
 >Just go to my pastebin which was created long time back. Username: abhinav654321
 

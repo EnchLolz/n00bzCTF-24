@@ -4,7 +4,7 @@ Category: OSINT
 
 Points: 486
 
-Solves: xxx
+Solves: 95
 
 >Can you find out where the OG meetup point is? The flag is in the format n00bz{lat,long} with upto 3 decimal places, rounded. Continue where you left off... Note: Wikipedia can be wrong sometimes \;)
 

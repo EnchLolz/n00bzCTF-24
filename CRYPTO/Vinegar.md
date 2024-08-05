@@ -4,7 +4,7 @@ Category: CRYPTO
 
 Points: 100
 
-Solves: xxx
+Solves: 769
 
 >Can you decode this message?
 

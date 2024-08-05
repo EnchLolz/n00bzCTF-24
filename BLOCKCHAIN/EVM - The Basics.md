@@ -4,7 +4,7 @@ Category: BLOCKCHAIN
 
 Points: 363
 
-Solves: xxx
+Solves: 294
 
 >I have some EVM runtime bytecode, whatever that means. You need to find the value, in hex, that you need to send to make the contract STOP and not self destruct. Wrap the hex in n00bz{}.
 

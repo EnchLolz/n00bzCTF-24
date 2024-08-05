@@ -4,7 +4,7 @@ Category: PROGRAMMING
 
 Points: 267
 
-Solves: xxx
+Solves: 383
 
 >There's no way you can guess my favorite number, you silly goose.
 

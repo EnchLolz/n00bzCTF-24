@@ -4,7 +4,7 @@ Category: PROGRAMMING
 
 Points: 403
 
-Solves: xxx
+Solves: 248
 
 >Let's see if you can do more than just counting... (Part 1 was in n00bzCTF 2023.)
 

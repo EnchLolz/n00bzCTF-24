@@ -4,7 +4,7 @@ Category: PWN
 
 Points: 464
 
-Solves: xxx
+Solves: 152
 
 >You cannot beat my Tic-Tac-Toe bot! If you do, you get a flag! 
 

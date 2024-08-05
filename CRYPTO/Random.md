@@ -4,7 +4,7 @@ Category: CRYPTO
 
 Points: 451
 
-Solves: xxx
+Solves: 177
 
 >I hid my password behind an impressive sorting machine. The machine is very luck based, or is it?!?!?!?
 

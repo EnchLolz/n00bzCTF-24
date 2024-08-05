@@ -4,7 +4,7 @@ Category: BLOCKCHAIN
 
 Points: 463
 
-Solves: xxx
+Solves: 154
 
 >So much maths... You need to find the value, in hex, that you need to send to make the contract STOP and not self destruct. Wrap the hex in n00bz{}.
 

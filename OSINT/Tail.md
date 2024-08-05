@@ -4,7 +4,7 @@ Category: OSINT
 
 Points: 100
 
-Solves: xxx
+Solves: 606
 
 >Here's a picture of a plane's tail. Can you find the airline's hub (the airport where they mostly operate from).
 

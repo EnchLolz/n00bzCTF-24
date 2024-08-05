@@ -4,7 +4,7 @@ Category: FORENSICS
 
 Points: 387
 
-Solves: xxx
+Solves: 267
 
 >The Wave is not audible, perhaps corrupted? 
 

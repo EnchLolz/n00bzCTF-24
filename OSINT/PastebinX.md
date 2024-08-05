@@ -4,7 +4,7 @@ Category: OSINT
 
 Points: 428
 
-Solves: xxx
+Solves: 214
 
 >All I need is the User ID said the boss. Help the poor employee to find the id. Flag format - n00bz{1d_}.
 

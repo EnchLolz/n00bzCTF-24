@@ -4,7 +4,7 @@ Category: OSINT
 
 Points: 412
 
-Solves: xxx
+Solves: 236
 
 >You may have gotten your first flag, but it's just the beginning! John Doe, as overconfident as he is, has left you with a riddle. Maybe it hides some secrets? Continue where you left off last time. 
 

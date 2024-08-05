@@ -4,7 +4,7 @@ Category: FORENSICS
 
 Points: 100
 
-Solves: xxx
+Solves: 574
 
 >So many plane-related challenges! Why not another one? The flag is the latitude, longitude of the place this picture is taken from, rounded upto two decimal places.
 

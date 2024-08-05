@@ -4,7 +4,7 @@ Category: MISC
 
 Points: 100
 
-Solves: xxx
+Solves: 501
 
 >My little brother is learning math, can you show him how to do some addition problems?
 

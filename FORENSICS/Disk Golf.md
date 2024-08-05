@@ -4,7 +4,7 @@ Category: FORENSICS
 
 Points: 457
 
-Solves: xxx
+Solves: 166
 
 >Let's play some disk golf!
 

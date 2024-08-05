@@ -4,7 +4,7 @@ Category: REV
 
 Points: 343
 
-Solves: xxx
+Solves: 315
 
 >Help! A hacker said that this "language" has a flag but I can't find it!
 

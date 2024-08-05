@@ -4,7 +4,7 @@ Category: WEB
 
 Points: 429
 
-Solves: xxx
+Solves: 212
 
 >Have you focused on yourself recently?
 

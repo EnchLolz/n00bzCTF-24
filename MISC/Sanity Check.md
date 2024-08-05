@@ -4,7 +4,7 @@ Category: MISC
 
 Points: 100
 
-Solves: xxx
+Solves: 690
 
 >Welcome to n00bzCTF 2024! Join our discord server to get the flag!
 

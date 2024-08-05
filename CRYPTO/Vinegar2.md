@@ -4,7 +4,7 @@ Category: CRYPTO
 
 Points: 135
 
-Solves: xxx
+Solves: 479
 
 >Never limit yourself to only alphabets! 
 

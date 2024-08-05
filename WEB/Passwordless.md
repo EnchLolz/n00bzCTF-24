@@ -4,7 +4,7 @@ Category: WEB
 
 Points: 100
 
-Solves: xxx
+Solves: 736
 
 >Tired of storing passwords? No worries! This super secure website is passwordless!
 
