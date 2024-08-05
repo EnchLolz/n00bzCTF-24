@@ -2,7 +2,7 @@
 
 Category: FORENSICS
 
-Points: xxx
+Points: 387
 
 Solves: xxx
 

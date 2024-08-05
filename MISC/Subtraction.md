@@ -2,7 +2,7 @@
 
 Category: MISC
 
-Points: xxx
+Points: 448
 
 Solves: xxx
 

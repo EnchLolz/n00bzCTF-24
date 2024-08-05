@@ -2,7 +2,7 @@
 
 Category: PWN
 
-Points: xxx
+Points: 464
 
 Solves: xxx
 

@@ -2,7 +2,7 @@
 
 Category: OSINT
 
-Points: xxx
+Points: 486
 
 Solves: xxx
 

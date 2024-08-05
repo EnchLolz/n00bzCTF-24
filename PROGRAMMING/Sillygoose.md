@@ -2,7 +2,7 @@
 
 Category: PROGRAMMING
 
-Points: xxx
+Points: 267
 
 Solves: xxx
 

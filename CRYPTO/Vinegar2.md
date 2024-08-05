@@ -2,7 +2,7 @@
 
 Category: CRYPTO
 
-Points: xxx
+Points: 135
 
 Solves: xxx
 

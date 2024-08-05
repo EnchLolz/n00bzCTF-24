@@ -2,7 +2,7 @@
 
 Category: REV
 
-Points: xxx
+Points: 100
 
 Solves: xxx
 

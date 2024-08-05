@@ -2,7 +2,7 @@
 
 Category: WEB
 
-Points: xxx
+Points: 429
 
 Solves: xxx
 
@@ -23,7 +23,7 @@ Clicking on upload, we can upload any file we want and we will view it back with
 ![Upload](/images/SelfUpload.png)
 ![Uploaded](/images/SelfUploaded.png)
 
-After going through a ton of rabbit holes :sob: (like I was trying to find exploits in frp that they used to host the thing), I realized that there was a very simple LFI attack. When we put in the parameter `?image=nature.jpg` it was opening the file `nature.jpg`, so what if we try to open `etc/passwd`:
+After going through a ton of rabbit holes :sob: (like I was trying to find exploits in frp that they used to host the thing and uploading adobe stock photos of people with filename self), I realized that there was a very simple LFI attack. When we put in the parameter `?image=nature.jpg` it was opening the file `nature.jpg`, so what if we try to open `etc/passwd`:
 
 ![attempt 1](/images/Selfetcpasswd1.png)
 ![attempt 2](/images/Selfetcpasswd2.png)

@@ -2,7 +2,7 @@
 
 Category: BLOCKCHAIN
 
-Points: xxx
+Points: 463
 
 Solves: xxx
 
