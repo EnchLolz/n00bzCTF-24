@@ -11,7 +11,7 @@
 - ### Blockchain (3/3)
     - [EVM - The Basics](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/EVM%20-%20The%20Basics.md)
     - [EVM - Conditions](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/EVM%20-%20Conditions.md)
-    - [SHOP]() (WIP/Currently Banned for Verification)
+    - [Shop]() (WIP/Currently Banned for Verification)
 
 - ### Crypto (4/4)
     - [Vinegar](https://github.com/EnchLolz/n00bzCTF-24/blob/main/CRYPTO/Vinegar.md)
