@@ -35,7 +35,7 @@ while True:
 b'n00bz{crypt0_1s_1nc0mpl3t3_w1th0ut_rs4!!}'
 ```
 
-Or just upload to dcode :skull:
+Or just upload to dcode or just do `cbrt(c)` in this case :skull:
 
 ### Flag
 
