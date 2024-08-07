@@ -13,7 +13,7 @@ Ordered from easiet to hardest within each category
 - ### Blockchain (3/3)
     - [EVM - The Basics](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/EVM%20-%20The%20Basics.md)
     - [EVM - Conditions](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/EVM%20-%20Conditions.md)
-    - [Shop]() (WIP/Currently Banned for Verification)
+    - [Shop](https://github.com/EnchLolz/n00bzCTF-24/blob/main/BLOCKCHAIN/Shop.md) 
 
 - ### Crypto (4/4)
     - [Vinegar](https://github.com/EnchLolz/n00bzCTF-24/blob/main/CRYPTO/Vinegar.md)
@@ -31,7 +31,7 @@ Ordered from easiet to hardest within each category
     - [Addition](https://github.com/EnchLolz/n00bzCTF-24/blob/main/MISC/Addition.md)
     - [Agree](https://github.com/EnchLolz/n00bzCTF-24/blob/main/MISC/Agree.md)
     - [Subtraction](https://github.com/EnchLolz/n00bzCTF-24/blob/main/MISC/Subtraction.md)
-    - [WaaS]() (WIP/Currently Banned for Verification)
+    - [WaaS](https://github.com/EnchLolz/n00bzCTF-24/blob/main/MISC/WaaS.md) 
 
 - ### Osint (7/7)
     - [Tail](https://github.com/EnchLolz/n00bzCTF-24/blob/main/OSINT/Tail.md)
@@ -40,12 +40,12 @@ Ordered from easiet to hardest within each category
     - [The Gang 2](https://github.com/EnchLolz/n00bzCTF-24/blob/main/OSINT/The%20Gang%202.md)
     - [PastebinX](https://github.com/EnchLolz/n00bzCTF-24/blob/main/OSINT/PastebinX.md)
     - [The Gang 3](https://github.com/EnchLolz/n00bzCTF-24/blob/main/OSINT/The%20Gang%203.md)
-    - [The Gang 4]() (WIP/Currently Banned for Verification)
+    - [The Gang 4](https://github.com/EnchLolz/n00bzCTF-24/blob/main/OSINT/The%20Gang%204.md) 
 
 - ### Programming (3/3)
     - [Sillygoose](https://github.com/EnchLolz/n00bzCTF-24/blob/main/PROGRAMMING/Sillygoose.md)
     - [Numbers 2](https://github.com/EnchLolz/n00bzCTF-24/blob/main/PROGRAMMING/Numbers%202.md)
-    - [Back From Brazil]() (WIP/Currently Banned for Verification)
+    - [Back From Brazil](https://github.com/EnchLolz/n00bzCTF-24/blob/main/PROGRAMMING/Back%20From%20Brazil.md)
 - ### Pwn (1/1)
     - [Think Outside the Box](https://github.com/EnchLolz/n00bzCTF-24/blob/main/PWN/Think%20Outside%20the%20Box.md)
 - ### Rev (3/3)
@@ -55,7 +55,7 @@ Ordered from easiet to hardest within each category
 - ### Web (3/3)
     - [Passwordless](https://github.com/EnchLolz/n00bzCTF-24/blob/main/WEB/Passwordless.md)
     - [Focus on yourSELF](https://github.com/EnchLolz/n00bzCTF-24/blob/main/WEB/Focus%20on%20yourSELF.md)
-    - [File Sharing Portal]() (WIP/Currently Banned for Verification)
+    - [File Sharing Portal](https://github.com/EnchLolz/n00bzCTF-24/blob/main/WEB/File%20Sharing%20Portal.md)
 
 
 |  |  |
