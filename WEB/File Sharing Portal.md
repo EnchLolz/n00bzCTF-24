@@ -199,6 +199,7 @@ NICE! It works, we have got the flag file:
 
 Definetely one of the more enjoyable/interesting challenges \:D
 
+\*there are also a lot of unintended solutions such as ssti through filename or symlinks.
 ### Flag
 
 ```n00bz{n3v3r_7rus71ng_t4r_4g41n!_0894282b7aae}```
